@@ -1,0 +1,8 @@
+.DS_Store
+.idea/
+
+target/*
+!target/site/
+target/site/*
+!target/site/jacoco/
+!target/site/jacoco/**
